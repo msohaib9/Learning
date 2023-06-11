@@ -1,0 +1,2 @@
+Signals vs subjects (shows how signals are better and easy to use)
+https://youtu.be/iA6iyoantuo
