@@ -1,2 +1,6 @@
 Signals vs subjects (shows how signals are better and easy to use)
 https://youtu.be/iA6iyoantuo
+
+Angular hydration (rendering the html on server side and using that on client side)
+https://youtu.be/2tHozZWMm18
+
